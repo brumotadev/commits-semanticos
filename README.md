@@ -25,6 +25,8 @@ git commit -m "feat(api): enviar um e-mail ao cliente quando a obra for atualiza
 - ```fix```: correção de um bug
 - ```docs```: mudanças na documentação
 - ```style```: formatação/estilo de código, adição de ponto e vírgula
-- ```refactor```: refatoração do código
+- ```refactor```: refatoração do código. Visando melhorando a organização, deixando o código mais limpo, reutilizável, eficiente. E que pode mudar a estrutura geral.
 - ```test```: adição ou refatoração de testes
 - ```chore```: alterações que não influenciam o sistema ou os testes. Exemplo: Adicionar algo no .gitignore
+- ```cleanup```: Remoção de espaços, comentários e variáveis não utilizadas
+-```remove```: remover código desnecessário sem mudar a estrutura geral
